@@ -53,7 +53,14 @@
 # a %= 3 
 # print(a)
 
-#   Logocal Operator
+#   If, else, elif
+
+a = 3
+b = 4
+if a > b:
+    print("a is grater than b")
+else:
+    print("b is grater than a")
 
 
 

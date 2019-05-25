@@ -1,0 +1,12 @@
+                            TOPICS
+                            ======
+
+1) List
+    Method
+    Indexing
+    slicing
+    list comprehensive
+2) Loop
+    For 
+    While
+3) Distionary

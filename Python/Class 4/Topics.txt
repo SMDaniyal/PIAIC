@@ -1,0 +1,10 @@
+Topics:
+1)  Dictionary
+    * Methods
+    * Attributes
+    * Value extraction
+2)  Functions
+    * Default Functions
+    * Required Arguments Functions
+    * Optional Arguments Functions
+    * Key / Value Arguments

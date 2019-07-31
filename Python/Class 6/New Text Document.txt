@@ -1,0 +1,3 @@
+Abtract class ka object nahi banega
+uncomplete class hoti hy
+instense nahi ban sakta
